@@ -1,0 +1,332 @@
+*{
+outline: 0;
+padding: 0;
+margin: 0;
+border: 0;
+}
+
+#wrapper{
+	width: 1150px;
+	height: 820px;
+	background-color: white;
+	margin-left: 70px;
+	display: inline-block;
+}
+
+#banner span{
+	color: rgb(0, 102, 204);
+}
+
+#banner img{
+	width: 100px;
+	height: 100px;
+	margin-left: 120px;
+	display: inline-block;
+}
+
+.theinternet{
+	vertical-align: top;
+	margin-top: 30px;
+	display: inline-block;
+	font-size: 45px;
+	font-family: arial;
+	font-weight: lighter;
+}
+
+.worldwideweb{
+	vertical-align: top;
+	display: inline-block;
+	font-size: 30px;
+	font-family: arial;
+	font-weight: lighter;
+}
+
+#navigation{
+	background-color: white;
+	height: 600px;
+	width: 220px;
+	margin-left: 100px;
+	display: inline-block;
+}
+
+.blueinbanner{
+	background-color: blue;
+	width: 920px;
+	margin-left: 100px;
+	margin-top: -24px;
+	padding-top: 15px;
+	padding-left: 20px;
+	height: 45px;
+}
+
+.blueinbanner h1{
+	color: white;
+	font-family: arial;
+	font-weight: lighter;
+	z-index: -1;
+	font-size: 30px;
+	display: inline-block;
+	margin-top: -1pt;
+}
+
+.leftofDNS{
+	height: 228px;
+	width: 220px;
+	display: inline-block;
+	vertical-align: top;
+	border-bottom: solid grey;
+ 	border-width: 2px;
+
+}
+
+.beginningletters{
+	color: black;
+	font-family: arial;
+	font-size: 15px;
+	font-weight: bold;
+	display: inline-block;
+	height: 18px;
+	margin: 0px;
+	margin-bottom: 15px;
+	margin-top: 30px;
+}
+
+.beginningletters span{
+	color: red;
+}
+
+.middleletters{
+	color: black;
+	font-family: arial;
+	font-size: 15px;
+	font-weight: bold;
+	width: 200px;
+	margin: 0em;
+}
+
+.middleletters span{
+	color: rgb(0, 102, 204);
+}
+
+.buttonwatchavideo{
+	background-color: blue;
+	height: 35px;
+	width: 210px;
+	color: white;
+	font-size: 18px;
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-left: 3px;
+}
+
+.buttonmoreresources{
+	background-color: orange;
+	height: 35px;
+	width: 210px;
+	color: white;
+	font-size: 18px;
+	border-radius: 5px;
+	margin-top: 3px;
+	margin-left: 3px;
+}
+
+.advert {
+	height: 320px;
+	width: 220px;
+	background-color: black;
+	display: inline-block;
+	margin-top: 50px;
+	background-image: url(./images/ad_background.png);
+}
+
+.advert span{
+	font-family: arial;
+	font-size: 25px;
+	font-weight: lighter;
+	color: white;
+	text-align: center;
+	display: inline-block;
+	margin-top: 20px;
+	height: 90px;
+	z-index: -1;
+}
+
+.advert img{
+	height: 40%;
+	width: 40%;
+	margin-left: 70px;
+}
+.advert button{
+	font-size: 15px;
+	font-weight: bolder;
+	color: white;
+	background-color: rgb(0, 204, 204);
+	height: 30px;
+	width: 190px;
+	margin-left: 15px;
+	border-radius: 5px;
+	margin-top: 10px;
+}
+
+#middleblock {
+	display: inline-block;
+	height: 600px;
+	width: 700px;
+	vertical-align: top;
+	font-family: arial;
+}
+
+.DNS{
+	height: 65px;
+	width: 680px;
+	background-color: white;
+	display: inline-block;
+	margin-left: 20px;
+	vertical-align: top;
+	border-bottom: solid grey;
+ 	border-width: 2px;
+}
+
+.house{
+	width: 60px;
+	margin-left: 0px;
+	display:inline-block;
+}
+
+.house img{
+	height: 20px;
+	width: 20px;
+	margin-top: 10px;
+}
+
+.rightofDNS{
+	height: 62px;
+	width: 215px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 380px;
+
+}
+
+.phone{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 5px;
+}
+
+.phone img{
+	height: 45px;
+	width: 45px;
+	margin-top: 5px;
+	vertical-align: top;
+	display: inline-block;
+}
+
+.contactinfo{
+	height: 62px;
+	width: 160px;
+	display: inline-block;
+}
+
+.numbersonrightofDNS{
+	width: 150px;
+	color: black;
+	font-size: 11px;
+	font-family: arial;
+	vertical-align: top;
+	display: block;
+	margin-left: 10px;
+}
+
+.bluenumberonrightofDNS{
+	color: rgb(0, 153, 204);
+	font-size: 25px;
+	font-weight: bold;
+	vertical-align: top;
+	display: block;
+}
+
+.clients h3{
+	color: rgb(0, 102, 204);
+	font-family: arial;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.clients p{
+	margin-bottom: 5px;
+	font-size: 15px;
+}
+
+.clientsandservers{
+	font-size: 15px;
+	margin-left: 25px;
+	margin-bottom: 6px;
+}
+
+.clients img{
+	height: 40%;
+	width: 40%;
+	display: inline-block;
+	margin-left: 200px;
+	margin-top: 5px;
+}
+
+.sowhathappens{
+	margin-left: 25px;
+	margin-top: 5px;
+	font-size: 15px;
+}
+
+.blue{
+	color: rgb(0, 153, 204);
+}
+
+.thebig3{
+ 	display: inline-block;
+ 	height: 95px;
+ 	width: 650px;
+	border-top: solid blue;
+	border-left: solid blue;
+	border-right: solid blue;
+ 	border-width: 5px;
+ 	margin-top: 20px;
+ 	padding: 10px;
+}
+
+.thebig3 img{
+	height: 95px;
+	width: 100px;
+	display: inline-block;
+}
+
+.language{
+	height: 100px;
+	width: 515px;
+	vertical-align: top;
+	display: inline-block;
+	margin-left: 20px;
+	font-size: 15px;
+}
+
+.language h3{
+	color: rgb(0, 102, 204);
+	font-family: arial;
+	margin-bottom: 5px;
+}
+
+.language p{
+	margin-top: 5px;
+}
+
+.italic{
+	font-style:italic;
+}
+
+.bluehere{
+	color: rgb(0, 153, 204);
+}
